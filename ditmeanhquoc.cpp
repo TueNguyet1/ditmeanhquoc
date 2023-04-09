@@ -16,3 +16,13 @@ int main() {
 	cout << "Dit me anh " << name;
 	return 0;
 }
+
+// Câu lệnh này là để địt anh Quốc
+
+include <iostream>
+using namespace std;
+int main() {
+    string name = "Quoc";
+	cout << "Em suong qua anh " << name << " oi";
+	return 0;
+}
