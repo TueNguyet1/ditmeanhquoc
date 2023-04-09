@@ -17,7 +17,7 @@ int main() {
 	return 0;
 }
 
-// Câu lệnh này là để địt anh Quốc
+// Địt anh Quốc sướng như chó
 
 include <iostream>
 using namespace std;
