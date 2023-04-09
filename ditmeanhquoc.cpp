@@ -16,3 +16,18 @@ int main() {
 	cout << "Dit me anh " << name;
 	return 0;
 }
+
+// Nhập tên của mình vào
+
+#include <iostream>
+using namespace std;
+void show(string name) {
+	cout << "Dit me anh " << name;
+}
+
+int main() {
+	string name;
+	cin >> name;
+	show(name);
+	return 0;
+}
