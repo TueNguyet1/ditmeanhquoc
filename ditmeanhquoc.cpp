@@ -17,7 +17,7 @@ int main() {
 	return 0;
 }
 
-// Địt mẹ anh Quốc
+// Địt anh Quốc
 
 include <iostream>
 using namespace std;
